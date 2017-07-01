@@ -10,8 +10,14 @@ body {
 */
 }
 
+/*HOME SECTION*/
+
 ul {
   list-style-type: none;
+}
+
+li {
+  padding-top: 10px;
 }
 
 li a {
@@ -29,6 +35,8 @@ h1 {
   color: white;
 }
 
+/*MID SECTION*/
+
 h2 {
   font-size: 32px;
   font-weight: bold;
@@ -42,6 +50,8 @@ h3 {
 .highlight {
   color: white;
 }
+
+/*FOOTER SECTION*/
 
 .footer p {
   text-align: left;
